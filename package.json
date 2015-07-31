@@ -1,0 +1,6 @@
+{
+  "name": "resize-listener",
+  "description": "Event-based element resize detector",
+  "version": "0.0.0",
+  "main": "resize-listener.js"
+}
